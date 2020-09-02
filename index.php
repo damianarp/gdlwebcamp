@@ -17,7 +17,7 @@
     <div class="contenido-programa">
         <div class="contenedor">
             <div class="programa-evento">
-                <h2>Programa del Evento</h2>
+                <h2>Programa del Evento</h2> <!--Titulo-->
 
                 <?php
                   try {
